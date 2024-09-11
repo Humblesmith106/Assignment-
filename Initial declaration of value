@@ -1,0 +1,8 @@
+ Initial declaration of a variable
+x = 150
+print("Initial value of x:", x)
+ 
+ Re-declaration of the same variable
+x = 300
+print("Re-declared value of x:", x)
+ 
