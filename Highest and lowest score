@@ -1,0 +1,10 @@
+print("ajani segun micheal \n HND/230124 \n**)
+scorel-int(input ("enter yout score "))
+score2=int (input ("enter yout score"*))
+score3=int (input ("enter yout score"))
+score4-int (input("enter yout score“））
+score=[scorel, score2, score3, score4]
+d= max(score)
+Md= min(score)
+print(f"The highest {score} is {d}")
+print(f"The lowest {score} is {Md}")
