@@ -1,0 +1,3 @@
+print ("ajani segun micheal \n HND/230124 \n")|
+for Y in range (1,11):
+print (Y)
