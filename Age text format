@@ -1,0 +1,4 @@
+print("ajani segun micheal \n HND/230124 \n")
+name=input ("what is your name ") age=input ("How old are you ")
+color-input ("what is your favourite color "›
+print (f" my name is (name}, i am (age) years old, my favourite color is (color)")
