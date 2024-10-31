@@ -1,0 +1,9 @@
+print("ajani segun micheal \n HND/230124 \n"*)
+numB-int(input("enter an interger
+"))
+if numB > 0:
+print(f"this {numB} is a positive integer")
+elif numB ‹ 0:
+print(f"this (numB) is a negative integer")
+else:
+print(f"this (numB) is a zero integer")
